@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinRecyclerView</string>
+    <string name="test">Test</string>
+    <string name="country">Country</string>
+    <string name="texttest">textTest</string>
+</resources>
